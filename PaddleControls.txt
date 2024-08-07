@@ -1,0 +1,5 @@
+===========  Movement ===========
+Move Up (Left Paddle) -> W
+Move Down (Left Paddle) -> S
+Move Up (Right Paddle) -> Up Arrow
+Move Down (Right Paddle) -> Down Arrow

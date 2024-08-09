@@ -1,7 +1,10 @@
 <h1 align="center">PONG</h1>
 I have developed a two-player Pong game in Python (using the module PyGame) where once a player earns 10 points, they win the game.
-<br>
-</br>
+<p style="display:inline-block;" align="center">
+  <img src="https://lh3.googleusercontent.com/pw/AP1GczNHB8ewdkZANMZD6WEynaA8e0N0dTrWLlfl95qNNP5OwtJQFTGdMlSfELUPzCIOMZBaqNKYKv3u-HI7xwg2nC_2T0Rv_dlNbu94S-fBAUyMvBQpAy4=w600-h315-p-k" alt="Pong Start Screen" width=400 height=200/>
+  <img src="https://lh3.googleusercontent.com/pw/AP1GczMaefSOuA9N2ohhAJ0PbaMj6rR9ZF94ezalBqq0vkgfNy1oP7oOcgzgyI9C1cAIvTQm3u7vpaRc_W2xKuJI_EQlGGGOCDvp4SsRcKH0HQ12nLN34lg=w600-h315-p-k" alt="Pong Game Screen" width=400 height=200/>
+  <img src="https://lh3.googleusercontent.com/pw/AP1GczNJktwtJZtQy-jq-NVXS8aidkyEAutX_bmeEaSpocVFrNgjEJRHiEfazJcxCdQOO2gpU17cK5s7dJGHMl_J7NDQnAGrtJ83-vt3vp9B_vvaLAd-ENc=w600-h315-p-k" alt="Pong Win Screen" width=400 height=200/>
+</p>
 <br>
 </br>
 

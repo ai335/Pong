@@ -93,8 +93,9 @@ class Line():
     def __init__(self):
         super(Line).__init__()
         self.white_line = pg.image.load("C:/Users/sasen/Desktop/Aidan/Pong Project/Pong Line.png")
+        self.white_line = pg.transform.scale(self.white_line, (SCREEN_WIDTH / 2, SCREEN_HEIGHT))
     def addToScreen(self):
-        screen.blit(self.white_line, (SCREEN_WIDTH / 6, 15))
+        screen.blit(self.white_line, (SCREEN_WIDTH / 4, 15))
 
 #Ball Class
 class Ball(pg.sprite.Sprite):

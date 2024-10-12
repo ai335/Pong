@@ -17,6 +17,10 @@ Install pygame using pip:
 ```bash
 pip install pygame
 ```
+```bash
+pip install pywin32
+```
+
 
 <br />
 <h2>Running The Game</h2>
